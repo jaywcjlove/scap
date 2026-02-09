@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="86" alt="Scap" src="https://github.com/user-attachments/assets/fa69f29b-be40-4ae8-b867-4f814911be5f"> Please provide as much detail as possible about your support request or feedback.
+        <img align="right" height="86" alt="Scap" src="https://github.com/user-attachments/assets/965f303e-1c75-4a08-afc1-565ed5b9c06b"> Please provide as much detail as possible about your support request or feedback.
         
         Scap is a macOS app tailored for capturing, annotating, and exporting images. It provides a focused editing canvas with drawing tools, blur/mosaic, spotlight, QR overlays, watermarking, and image-layer pasting. The app also supports editing existing images, a free drawing board mode, and a screenshot mode.
 
