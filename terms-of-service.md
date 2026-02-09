@@ -10,7 +10,7 @@ Welcome to **Scap**! These Terms of Service (hereinafter referred to as "Terms")
 
 ## Service Overview
 
-**Scap** is a professional macOS application tailored for capturing, annotating, and exporting images. It provides a focused editing canvas with drawing tools, blur/mosaic, spotlight, QR overlays, watermarking, and image-layer pasting. The app supports editing existing images, a free drawing board mode, and a screenshot mode with area capture and crosshair guidance. The App operates offline, and all functions are performed locally without relying on an internet connection.
+**Scap** is a professional macOS application designed specifically for image screenshot capture, annotation, and drawing board creation. It provides a focused editing canvas that integrates multiple powerful features, including drawing tools, blur/mosaic, spotlight, QR code overlay, watermark, and image layer pasting. In addition to robust editing capabilities, Scap supports editing existing images, a free creative drawing board mode, and a precise screenshot mode, helping users efficiently complete image processing tasks. The App operates offline, and all functions are performed locally without relying on an internet connection.
 
 **Please Note:** This application is designed for image editing and annotation purposes. Please use the tools responsibly and respect copyright when editing and sharing images.
 

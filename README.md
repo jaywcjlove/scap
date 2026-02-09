@@ -31,7 +31,7 @@
 
 ![](./assets/screenshots-4.png)
 
-Scap is a macOS app tailored for capturing, annotating, and exporting images. It provides a focused editing canvas with drawing tools, blur/mosaic, spotlight, QR overlays, watermarking, and image-layer pasting. The app also supports editing existing images, a free drawing board mode, and a screenshot mode.
+Scap is a macOS app designed specifically for image screenshotting, annotation, and canvas creation. It provides a focused editing canvas integrated with powerful tools, including drawing tools, blur/mosaic, spotlight, QR code overlay, watermark, and image layer paste functions. In addition to robust editing capabilities, Scap supports editing existing images, a free drawing board mode, and a precise screenshot mode, helping users efficiently complete image processing tasks.
 
 ## Features
 
