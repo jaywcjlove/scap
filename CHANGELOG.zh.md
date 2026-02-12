@@ -10,4 +10,4 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v0.0.1](https://github.com/jaywcjlove/scap/releases/tag/v0.0.1)
+## [v1.0.0](https://github.com/jaywcjlove/scap/releases/tag/v1.0.0)
