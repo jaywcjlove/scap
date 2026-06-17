@@ -10,6 +10,24 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/scap/releases/tag/v1.3.0)
+
+1. feat: 优化背景图片选择功能
+2. feat: 优化屏幕截图选区操作控件
+3. feat: 工具栏新增撤销、重做按钮
+4. feat: 支持自定义背景配置，优化绘图流畅度
+5. feat: 新增图片阴影自定义调节项
+6. feat: 新增社交角标外观设置
+7. feat: 支持自定义社交角标尺寸
+8. feat: 新增操作反馈音效自定义配置
+9. fix: 修复多显示器截图与绘图面板焦点异常问题
+10. fix: 修复从首页截图入口重复打开截图编辑器的问题
+11. fix: 优化背景图片历史记录处理逻辑
+12. fix: 优化截图交互逻辑与设置项展示效果
+13. refactor: 完善多语言本地化与画布手势操作
+14. refactor: 优化绘图工具包多语言适配与项目集成逻辑
+15. refactor: 将绘图面板抽离封装为独立绘图工具包
+
 ## [v1.2.0](https://github.com/jaywcjlove/scap/releases/tag/v1.2.0)
 
 1. feat: 在帮助菜单中添加翻译贡献链接

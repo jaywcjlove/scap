@@ -10,6 +10,24 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/scap/releases/tag/v1.3.0)
+
+1. feat: Improved background image selection experience
+2. feat: Enhanced screen capture selection controls
+3. feat: Added Undo and Redo buttons to the toolbar
+4. feat: Added custom background configuration and improved drawing performance
+5. feat: Added customizable image shadow settings
+6. feat: Added social badge appearance customization
+7. feat: Added support for custom social badge sizing
+8. feat: Added customizable feedback sound effects
+9. fix: Fixed focus issues with multi-display screenshots and drawing panels
+10. fix: Fixed an issue where the screenshot editor could be opened multiple times from the home screen capture entry
+11. fix: Improved background image history management
+12. fix: Refined screenshot interactions and settings presentation
+13. refactor: Improved localization support and canvas gesture handling
+14. refactor: Enhanced localization support for the drawing toolkit and optimized integration logic
+15. refactor: Extracted the drawing panel into a standalone drawing toolkit
+
 ## [v1.2.0](https://github.com/jaywcjlove/scap/releases/tag/v1.2.0)
 
 1. feat: add translation contribution links to help menus
