@@ -10,6 +10,18 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/scap/releases/tag/v1.4.0)
+
+1. 新增：支持将图片拖放到主编辑窗口。
+2. 新增：支持通过 Finder「打开方式」打开图片。
+3. 新增：支持屏幕裁剪并复制到剪贴板，同时修复辅助参考线问题。
+4. 优化：将绘图板入口调整到状态菜单中的「打开图片」上方。
+5. 优化：移除通知名称中多余的 public 修饰符。
+6. 性能优化：通过异步导出保持工具栏复制操作的响应速度。
+7. 性能优化：后台加载缩略图，避免设置界面卡顿
+8. 性能优化：截图后从内存中打开编辑器，提升打开速度
+9. 修复：复制/保存时正确合成屏幕内容与标注内容。
+
 ## [v1.3.0](https://github.com/jaywcjlove/scap/releases/tag/v1.3.0)
 
 1. feat: 优化背景图片选择功能

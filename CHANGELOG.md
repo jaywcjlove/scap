@@ -10,6 +10,18 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/scap/releases/tag/v1.4.0)
+
+1. feat: drop images onto the main editor windo
+2. feat: support opening images via Finder Open With.
+3. feat: add screen crop copy-to-clipboard and fix guide lines.
+4. style: place drawing board above open-image in status menu.
+5. style: drop redundant public on notification names.
+6. perf: keep toolbar copy responsive with async export.
+7. perf: load background thumbs without freezing settings 
+8. perf: open editor from memory after capture
+9. fix: composite screen and annotations on copy/save.
+
 ## [v1.3.0](https://github.com/jaywcjlove/scap/releases/tag/v1.3.0)
 
 1. feat: Improved background image selection experience
