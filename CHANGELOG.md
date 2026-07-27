@@ -10,6 +10,12 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/scap/releases/tag/v1.5.0)
+
+1. fix: ensure DrawingCanvas receives mouse hits when transparent.
+2. fix: resolve Settings panel Swift concurrency isolation warnings.
+3. fix: prevent crash when resetting zoom after panning.
+
 ## [v1.4.0](https://github.com/jaywcjlove/scap/releases/tag/v1.4.0)
 
 1. feat: drop images onto the main editor windo

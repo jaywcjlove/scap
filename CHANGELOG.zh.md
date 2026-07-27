@@ -10,6 +10,12 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/scap/releases/tag/v1.5.0)
+
+1. 修复：画布处于透明状态时依然能够响应鼠标点击事件
+2. 修复：消除设置面板 Swift 并发隔离相关警告
+3. 修复：拖动视图后重置缩放时避免程序崩溃
+
 ## [v1.4.0](https://github.com/jaywcjlove/scap/releases/tag/v1.4.0)
 
 1. 新增：支持将图片拖放到主编辑窗口。
