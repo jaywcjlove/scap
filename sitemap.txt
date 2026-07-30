@@ -1,6 +1,6 @@
 https://wangchujiang.com/scap/index.html
-https://wangchujiang.com/scap/index.zh.html
 https://wangchujiang.com/scap/CHANGELOG.html
+https://wangchujiang.com/scap/index.zh.html
 https://wangchujiang.com/scap/CHANGELOG.zh.html
 https://wangchujiang.com/scap/feedback.html
 https://wangchujiang.com/scap/feedback.zh.html
