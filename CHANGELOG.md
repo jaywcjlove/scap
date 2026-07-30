@@ -10,6 +10,11 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/scap/releases/tag/v1.6.0)
+
+1. feat: enable in-selection annotation for quick screenshots
+2. fix: explicitly show NSMenuItem symbol images on macOS 27+.
+
 ## [v1.5.0](https://github.com/jaywcjlove/scap/releases/tag/v1.5.0)
 
 1. fix: ensure DrawingCanvas receives mouse hits when transparent.

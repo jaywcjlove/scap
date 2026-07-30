@@ -10,6 +10,11 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/scap/releases/tag/v1.6.0)
+
+1. 新功能：支持选区内标注，用于快速截图
+2. 修复：在macOS 27及以上系统正常显示菜单项SF符号图标
+
 ## [v1.5.0](https://github.com/jaywcjlove/scap/releases/tag/v1.5.0)
 
 1. 修复：画布处于透明状态时依然能够响应鼠标点击事件
