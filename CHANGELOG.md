@@ -10,6 +10,12 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/scap/releases/tag/v1.7.0)
+
+1. refactor: optimize command menu. 
+2. fix: fix incorrect toolbar position display. 
+3. fix: restore screen-crop selection move and handle resize 
+
 ## [v1.6.0](https://github.com/jaywcjlove/scap/releases/tag/v1.6.0)
 
 1. feat: enable in-selection annotation for quick screenshots

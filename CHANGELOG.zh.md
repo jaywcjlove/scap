@@ -10,6 +10,12 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/scap/releases/tag/v1.7.0)
+
+1. 重构：优化命令菜单
+2. 修复：工具栏位置显示异常问题
+3. 修复：恢复截图选区拖动与大小调整功能
+
 ## [v1.6.0](https://github.com/jaywcjlove/scap/releases/tag/v1.6.0)
 
 1. 新功能：支持选区内标注，用于快速截图
