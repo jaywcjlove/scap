@@ -10,6 +10,13 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/scap/releases/tag/v1.8.0)
+
+1. feat: 优化权限授权提示
+2. perf: 优化画布导出流程，提升性能
+3. fix: 修复选区缩放控制点被工具栏遮挡
+4. fix: 修复状态栏菜单显示问题
+
 ## [v1.7.0](https://github.com/jaywcjlove/scap/releases/tag/v1.7.0)
 
 1. 重构：优化命令菜单
