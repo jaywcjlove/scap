@@ -10,6 +10,13 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/scap/releases/tag/v1.9.0)
+
+1. feat: add marker pen icon.
+2. feat: add marker pen tool.
+3. fix: resolve shortcut display error.
+4. fix: fix residual annotation when exiting screenshot mark with ESC
+
 ## [v1.8.0](https://github.com/jaywcjlove/scap/releases/tag/v1.8.0)
 
 1. feat: Improve permission authorization prompts.

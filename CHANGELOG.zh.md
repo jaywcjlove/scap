@@ -10,6 +10,13 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/scap/releases/tag/v1.9.0)
+
+1. feat: 添加马克笔图标
+2. feat: 添加马克笔工具
+3. fix: 修复快捷键显示错误
+4. fix: 截图选区标注后按ESC退出，标注残留问题
+
 ## [v1.8.0](https://github.com/jaywcjlove/scap/releases/tag/v1.8.0)
 
 1. feat: 优化权限授权提示
