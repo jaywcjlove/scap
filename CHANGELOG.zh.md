@@ -10,6 +10,12 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/scap/releases/tag/v1.10.0)
+
+1. feat: 状态栏菜单新增常用设置
+2. feat: 新增截图阴影设置
+3. fix: 修复截图OCR加载缓慢、卡死、识别失败
+
 ## [v1.9.0](https://github.com/jaywcjlove/scap/releases/tag/v1.9.0)
 
 1. feat: 添加马克笔图标
