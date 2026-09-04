@@ -10,6 +10,12 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/scap/releases/tag/v1.10.0)
+
+1. feat: add common settings to status bar menu.
+2. feat: add screenshot shadow settings.
+3. fix: fix screenshot OCR slow loading, stuck and recognition failure.
+
 ## [v1.9.0](https://github.com/jaywcjlove/scap/releases/tag/v1.9.0)
 
 1. feat: add marker pen icon.
