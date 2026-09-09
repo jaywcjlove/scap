@@ -10,6 +10,12 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/scap/releases/tag/v1.11.0)
+
+1. fix: deselect shapes when switching between drawing tools
+2. fix: fix screenshot OCR failing to recognize Chinese characters.
+3. chore: Udpate AppIcon.  
+
 ## [v1.10.0](https://github.com/jaywcjlove/scap/releases/tag/v1.10.0)
 
 1. feat: add common settings to status bar menu.

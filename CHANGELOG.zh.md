@@ -10,6 +10,12 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/scap/releases/tag/v1.11.0)
+
+1. fix: 切换绘图工具时取消图形选中状态
+2. fix: 修复截图OCR无法识别中文的问题
+3. chore: 更新应用图标
+
 ## [v1.10.0](https://github.com/jaywcjlove/scap/releases/tag/v1.10.0)
 
 1. feat: 状态栏菜单新增常用设置
