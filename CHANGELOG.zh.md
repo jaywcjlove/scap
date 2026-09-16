@@ -10,6 +10,12 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/scap/releases/tag/v1.12.0)
+
+1. chore: 更新应用图标
+2. fix: 背景图片无权限时弹出显示提示
+3. fix: 修复菜单栏按钮图标出现时抖动问题
+
 ## [v1.11.0](https://github.com/jaywcjlove/scap/releases/tag/v1.11.0)
 
 1. fix: 切换绘图工具时取消图形选中状态

@@ -10,6 +10,12 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/scap/releases/tag/v1.12.0)
+
+1. chore: update app icon.
+2. fix: add permission prompt for background image display.
+3. fix: Fix jitter on appearance of menu bar button icons.
+
 ## [v1.11.0](https://github.com/jaywcjlove/scap/releases/tag/v1.11.0)
 
 1. fix: deselect shapes when switching between drawing tools
