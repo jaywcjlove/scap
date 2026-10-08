@@ -10,6 +10,11 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/scap/releases/tag/v1.13.0)
+
+1. feat: add smooth corner radius setting.
+2. fix: fix text recognition failure in screenshots.
+
 ## [v1.12.0](https://github.com/jaywcjlove/scap/releases/tag/v1.12.0)
 
 1. chore: update app icon.

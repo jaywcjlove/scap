@@ -10,6 +10,11 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/scap/releases/tag/v1.13.0)
+
+1. 新功能：新增平滑圆角设置
+2. 修复：修复截图文字识别失败问题
+
 ## [v1.12.0](https://github.com/jaywcjlove/scap/releases/tag/v1.12.0)
 
 1. chore: 更新应用图标
