@@ -10,6 +10,12 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/scap/releases/tag/v1.14.0)
+
+1. feat: 圆形和矩形支持颜色填充
+2. fix: 修复选中图形设置颜色无效的问题
+3. perf: 优化屏幕裁剪选区性能
+
 ## [v1.13.0](https://github.com/jaywcjlove/scap/releases/tag/v1.13.0)
 
 1. 新功能：新增平滑圆角设置

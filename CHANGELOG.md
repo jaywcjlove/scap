@@ -10,6 +10,12 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/scap/releases/tag/v1.14.0)
+
+1. feat: add color fill support for circles and rectangles. 
+2. fix: fix issue where setting color for selected shapes does not work. 
+3. perf: optimize performance of screen cropping selection. 
+
 ## [v1.13.0](https://github.com/jaywcjlove/scap/releases/tag/v1.13.0)
 
 1. feat: add smooth corner radius setting.
